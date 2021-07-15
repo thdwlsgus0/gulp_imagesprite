@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp.spritesmith": "^6.12.1"
+  },
+  "dependencies": {
+    "gulp-replace-quotes": "^1.0.2",
+    "gulp-strip-comments": "^2.5.2",
+    "gulp-uglify-es": "^2.0.0",
+    "gulp-util": "^3.0.8",
+    "postcss": "^8.3.5",
+    "reporter": "^0.1.0",
+    "stylelint": "^13.13.1",
+    "through2": "^2.0.5"
+  }
+}
